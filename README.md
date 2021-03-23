@@ -1,2 +1,2 @@
 # Scraper_HouseOfIndya
-Web Scrapper using Scrappy
+Web Scraper using Scrapy
